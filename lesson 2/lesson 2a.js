@@ -7,3 +7,4 @@
 // document.write((18.5 + 2 * 7.5) * 0.2);
 
 // document.write(Math.floor(2.8));
+
