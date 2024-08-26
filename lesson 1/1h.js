@@ -6,6 +6,7 @@
 
 // document.write(d);
 
-let a = 100;
+// let a = 100;
 
-document.write(a - 20 - 50 + 200);
+// document.write(a - 20 - 50 + 200);
+
