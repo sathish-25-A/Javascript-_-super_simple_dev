@@ -9,7 +9,7 @@ let para = document.getElementById("para");
 let remove_1 = document.getElementById("-1");
 let remove_2 = document.getElementById("-2");
 let remove_3 = document.getElementById("-3");
-
+let remove_4 = document.getElementById("-4");
 let cart = 0;
 show.onclick = function () {
   document.getElementById("para").innerHTML = `cart Quantity :  ${cart}`;
