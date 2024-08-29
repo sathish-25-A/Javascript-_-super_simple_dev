@@ -12,8 +12,12 @@ function isSameProduct(product, product1) {
   if (product.name === product1.name && product.price === product1.price) {
     return true;
   } else {
-     return false;
+    return false;
   }
 }
 
 console.log(isSameProduct(product, product1));
+
+console.log("Good Morng".toLocaleLowerCase());
+
+console.log("sathish".repeat(4));
