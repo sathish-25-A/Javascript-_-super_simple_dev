@@ -4,4 +4,4 @@ function greet(name) {
   para.textContent = `hi ${name}`;
 }
 
-greet('sathish');
+greet();
