@@ -8,5 +8,5 @@ function arrayswap(array) {
 
   return array;
 }
-console.log(arraySwap([1, 20, 22, 24, 5]));
-console.log(arraySwap(["hi", "hello", "hey"]));
+console.log(arrayswap([1, 20, 22, 24, 5]));
+console.log(arrayswap(["hi", "hello", "hey"]));
