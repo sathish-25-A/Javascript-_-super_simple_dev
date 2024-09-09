@@ -8,3 +8,5 @@ const obj3 = {
 document.querySelector(".para").innerHTML = obj3.fuc();
 
 // console.log(obj3.toString());
+
+
