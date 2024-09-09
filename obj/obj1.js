@@ -1,15 +1,17 @@
 let obj = {
-  name: "sathish",
-  age: 24,
-  city: "Madurai",
-  skill: {
-    html: 5,
-    css: 4,
-    js: 4,
-  },
-  val: function () {
-    return obj;
+  name: "jhon",
+  age: 20,
+  marks: {
+    math: 85,
+    science: 90,
+    english: 75,
   },
 };
 
-console.log(obj.skill);
+console.log(obj.marks.math);
+
+console.log((obj.marks.science = 95));
+
+obj.grade = "A";
+
+console.log(obj);
