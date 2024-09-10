@@ -18,3 +18,11 @@ console.log(car.model);
 car.startengine();
 
 car.changecolor("yellow");
+
+car.mileage = 15000;
+console.log(car.mileage);
+
+car.honk = function () {
+  console.log("beep beep");
+};
+car.honk();
