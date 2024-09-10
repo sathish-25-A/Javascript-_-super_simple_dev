@@ -15,6 +15,9 @@ class animal {
 
 let dog = new animal("rover ", "dog");
 let cat = new animal("whiskers", "cat");
+let cow = new animal("laxmi", "cow");
 
 dog.speak();
 cat.info();
+cow.speak();
+cow.info();
